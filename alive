@@ -1,0 +1,3 @@
+#@title **MAKE ALIVE VPS 12 HOURS** 
+alive = True #@param {type:'boolean'}
+! sleep 432000
